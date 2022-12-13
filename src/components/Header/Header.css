@@ -1,0 +1,15 @@
+.header-content{
+    min-height: 100vh;
+    background: url("../../images/library-img.webp") center/cover no-repeat;
+    flex-direction: column;
+}
+.header-title{
+    font-size: 4.2rem;
+    color: rgb(252, 251, 248);
+}
+.header-text{
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+    opacity: 0.8;
+    max-width: 770px;
+}
